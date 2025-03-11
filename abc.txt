@@ -7,3 +7,4 @@ KNeighbors
 KNN
 support vector
 support classifier
+Decision tree
