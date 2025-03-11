@@ -5,3 +5,4 @@ Linear Regression
 logistic Regression
 KNeighbors 
 KNN
+support vector
