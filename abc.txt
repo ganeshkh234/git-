@@ -3,3 +3,5 @@ how are you ?
 lets learn some concept of machine learning.
 Linear Regression 
 logistic Regression
+KNeighbors 
+KNN
